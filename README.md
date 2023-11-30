@@ -111,8 +111,8 @@ Please install or have installed the following:
 After installing node open a terminal in your code editor (VS Code for example) and clone this repository :
 
 ```sh
-git clone https://github.com/kaymen99/ClassyDogs-NFT-Project.git
-cd ClassyDogs-NFT-Project
+git clone https://github.com/YadlaMani/PandaNFT
+cd PandaNFT
 ```
 
 Then install the art engine dependancies by running :
